@@ -9,7 +9,7 @@ https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_naciona
 Version: 1.1
 
 
-| CLASIFICACION (1ª COLUMNA)                                   | EJEMPLOS DE INCIDENTES (2ª COLUMNA)        | Descripción / Ejemplos |
+| CLASIFICACIÓN (1ª COLUMNA)                                   | EJEMPLOS DE INCIDENTES (2ª COLUMNA)        | Descripción / Ejemplos |
 |---------------------------------------------------------      |------------------------------------   |------------------------|
 | Contenido abusivo | Spam | Correo electrónico masivo no solicitado. El receptor del contenido no ha otorgado autorización válida para recibir un mensaje colectivo. |
 | Contenido abusivo | Delito de odio | Contenido difamatorio o discriminatorio. Ej:  ciberacoso,  racismo,  amenazas  a  una  persona o dirigidas contra colectivos. |
