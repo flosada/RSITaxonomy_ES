@@ -6,13 +6,13 @@ This is the Spanish version of Reference Security Incident Classification Taxono
 Reference:
 https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf
 
-Version: 1.1
+Version: 1002
 
 
 | CLASIFICACIÓN (1ª COLUMNA)                                   | EJEMPLOS DE INCIDENTES (2ª COLUMNA)        | Descripción / Ejemplos |
 |---------------------------------------------------------      |------------------------------------   |------------------------|
-| Contenido abusivo | Spam | Correo electrónico masivo no solicitado. El receptor del contenido no ha otorgado autorización válida para recibir un mensaje colectivo. |
-| Contenido abusivo | Delito de odio | Contenido difamatorio o discriminatorio. Ej:  ciberacoso,  racismo,  amenazas  a  una  persona o dirigidas contra colectivos. |
+| Contenido abusivo | Spam | O "correo masivo no solicitado", significa que el destinatario no ha concedido un permiso verificable para el envío del mensaje y que éste se envía como parte de una colección más amplia de mensajes, todos ellos con un contenido funcionalmente comparable. Este IoC se refiere a los recursos que conforman la infraestructura de spam, por ejemplo, los recolectores como los verificadores de direcciones, las URL en los correos electrónicos de spam, etc. |
+| Contenido abusivo | Delito de odio | Bullying, contenido difamatorio o discriminatorio. Ej:  ciberacoso,  racismo,  amenazas  a  una  persona o dirigidas contra colectivos. |
 | Contenido abusivo | Explotación sexual (infantil), contenido sexual o violento | Material que represente de manera visual contenido relacionado con pornografía infantil, apología de la violencia, etc. |
 | Contenido malicioso | Sistema infectado | Sistema infectado con malware. Ej: Sistema, computadora o teléfono móvil infectado con un rootkit. |
 | Contenido malicioso | Servidor C&C | Conexión con servidor de Mando y Control (C&C) mediante malware o sistemas infectados. |
